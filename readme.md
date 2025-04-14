@@ -17,8 +17,8 @@
 <h3>1. Clone the repository:</h3>
 
 ```
-git clone https://github.com/ThomasJanssen-tech/Agentic-RAG-with-LangChain.git
-cd Agentic RAG with LangChain
+git clone https://github.com/ThomasJanssen-tech/Web-Scraping-with-Python-and-Beautifulsoup.git
+cd Web-Scraping-with-Python-and-Beautifulsoup
 ```
 
 <h3>2. Create a virtual environment</h3>
